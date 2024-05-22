@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AndrewHawking
+- 👋 Hi, I’m @Ji Zhuangzhi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on xxx
-- 📫 How to reach me xxx
+- 🌱 I’m currently learning Machine Learning
 
 <!---
 AndrewHawking/AndrewHawking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
